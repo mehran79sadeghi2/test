@@ -17,4 +17,4 @@ class NameTestCase(unittest.TestCase):
 mehran = ['mehran', 'ahmad', 'mohsen']
 for moh in mehran:
     if 'moh' in moh:
-        print('mohseniiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii')
+        print('mohiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii')
