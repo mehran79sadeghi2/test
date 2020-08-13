@@ -19,3 +19,4 @@ for moh in mehran:
     if 'moh' in moh:
         print('mohiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii')
         print('just merge :)')
+        print('i am ahmad')
