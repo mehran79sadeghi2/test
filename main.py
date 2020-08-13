@@ -18,3 +18,4 @@ mehran = ['mehran', 'ahmad', 'mohsen']
 for moh in mehran:
     if 'moh' in moh:
         print('mohiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii')
+        print('just merge :)')
